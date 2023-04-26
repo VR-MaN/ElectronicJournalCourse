@@ -1,0 +1,33 @@
+C:\Users\admin\OneDrive\Рабочий стол\ElectronicJournalCourse\ElectronicJournalCourse\ElectronicJournalCourse\bin\Debug\ElectronicJournalCourse.exe.config
+C:\Users\admin\OneDrive\Рабочий стол\ElectronicJournalCourse\ElectronicJournalCourse\ElectronicJournalCourse\bin\Debug\ElectronicJournalCourse.exe
+C:\Users\admin\OneDrive\Рабочий стол\ElectronicJournalCourse\ElectronicJournalCourse\ElectronicJournalCourse\bin\Debug\ElectronicJournalCourse.pdb
+C:\Users\admin\OneDrive\Рабочий стол\ElectronicJournalCourse\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Рабочий стол\ElectronicJournalCourse\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive\Рабочий стол\ElectronicJournalCourse\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.Form1.resources
+C:\Users\admin\OneDrive\Рабочий стол\ElectronicJournalCourse\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.Properties.Resources.resources
+C:\Users\admin\OneDrive\Рабочий стол\ElectronicJournalCourse\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Рабочий стол\ElectronicJournalCourse\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Рабочий стол\ElectronicJournalCourse\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.exe
+C:\Users\admin\OneDrive\Рабочий стол\ElectronicJournalCourse\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.pdb
+\\Mac\Home\Desktop\VSProject\Bisnes\ElectronicJournalCourse\ElectronicJournalCourse\bin\Debug\ElectronicJournalCourse.exe.config
+\\Mac\Home\Desktop\VSProject\Bisnes\ElectronicJournalCourse\ElectronicJournalCourse\bin\Debug\ElectronicJournalCourse.exe
+\\Mac\Home\Desktop\VSProject\Bisnes\ElectronicJournalCourse\ElectronicJournalCourse\bin\Debug\ElectronicJournalCourse.pdb
+\\Mac\Home\Desktop\VSProject\Bisnes\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\VSProject\Bisnes\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\VSProject\Bisnes\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.Form1.resources
+\\Mac\Home\Desktop\VSProject\Bisnes\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.Properties.Resources.resources
+\\Mac\Home\Desktop\VSProject\Bisnes\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\VSProject\Bisnes\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\VSProject\Bisnes\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.exe
+\\Mac\Home\Desktop\VSProject\Bisnes\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.pdb
+C:\Users\Admin\Desktop\ElectronicJournalCourse\ElectronicJournalCourse\bin\Debug\ElectronicJournalCourse.exe.config
+C:\Users\Admin\Desktop\ElectronicJournalCourse\ElectronicJournalCourse\bin\Debug\ElectronicJournalCourse.exe
+C:\Users\Admin\Desktop\ElectronicJournalCourse\ElectronicJournalCourse\bin\Debug\ElectronicJournalCourse.pdb
+C:\Users\Admin\Desktop\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.Form1.resources
+C:\Users\Admin\Desktop\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.Properties.Resources.resources
+C:\Users\Admin\Desktop\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.exe
+C:\Users\Admin\Desktop\ElectronicJournalCourse\ElectronicJournalCourse\obj\Debug\ElectronicJournalCourse.pdb
